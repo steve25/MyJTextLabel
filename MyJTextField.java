@@ -1,9 +1,6 @@
 import javax.swing.*;
-import javax.swing.text.Keymap;
-import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
-import java.awt.im.InputContext;
 
 public class MyJTextField extends JTextField {
     public MyJTextField() {
